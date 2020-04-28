@@ -52,5 +52,28 @@ Example
 # Scaling of this tool to monitor  1000s of URLs
  We are using threading in this and it is scalable and tested with 1000s of urls.
  
+# How to plot a timeseries graph to analyse the url status and response time?
+Run command "jupyter notebook" where the plot.py is present.
+Edit plot.py with the csv you want to analyse.
+
+Run the notebook and plot the graph.
+Code to plot a graph
+>import numpy as np
+>import pandas as pd
+>import matplotlib.pyplot as plt
+>import seaborn as sns
+
+>sns.set()
+>csv_name = "URL_STATUS_REPORThttpsodataintelcom.csv"
+>df = pd.read_csv(csv_name)
+
+
+>df.columns = ['time', 'status','response_time']
+>df.time = pd.to_datetime(df.time)
+>df.set_index('time', inplace=True)
+>df.plot(figsize=(20,10), linewidth=5, fontsize=20)
+>plt.xlabel('DateTime', fontsize=20);
+>plt.ylabel('URLStatusAndResponse', fontsize=20);
+
 
 
