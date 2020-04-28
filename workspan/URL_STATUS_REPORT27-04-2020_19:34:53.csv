@@ -1,0 +1,1010 @@
+DateTime,URL,STATUS,RESPONSE_TIME,RESPONSE_CODE,RESPONSE_ERROR
+27-04-2020_19:34:53,http://demo.appspot.com/,Down,NA,NA,"HTTPConnectionPool(host='demo.appspot.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1061cebd0>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:34:53,https://developers.google.com/,Down,NA,NA,"HTTPSConnectionPool(host='developers.google.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061c7910>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:34:53,http://demo.appspot.com/,Down,NA,NA,"HTTPConnectionPool(host='demo.appspot.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1061c7fd0>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:34:53,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,"HTTPSConnectionPool(host='demo.appspot.com', port=443): Max retries exceeded with url: /_ah/api/v1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061e3e50>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:34:53,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107205910>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:34:53,https://developers.google.com/,Down,NA,NA,"HTTPSConnectionPool(host='developers.google.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061ce850>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:34:53,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107205a50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:34:53,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,"HTTPSConnectionPool(host='demo.appspot.com', port=443): Max retries exceeded with url: /_ah/api/v1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107205250>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:34:53,http://demo.appspot.com/,Down,NA,NA,"HTTPConnectionPool(host='demo.appspot.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106150a10>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:34:53,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107216c10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:34:53,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,"HTTPSConnectionPool(host='demo.appspot.com', port=443): Max retries exceeded with url: /_ah/api/v1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10720ea10>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:34:53,http://demo.appspot.com/,Down,NA,NA,"HTTPConnectionPool(host='demo.appspot.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x107216890>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:34:53,https://developers.google.com/,Down,NA,NA,"HTTPSConnectionPool(host='developers.google.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10720eb90>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:34:53,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,"HTTPSConnectionPool(host='demo.appspot.com', port=443): Max retries exceeded with url: /_ah/api/v1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10721cf50>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:34:53,https://developers.google.com/,Down,NA,NA,"HTTPSConnectionPool(host='developers.google.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107224fd0>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:34:53,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106167fd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:34:53,http://demo.appspot.com/,Down,NA,NA,"HTTPConnectionPool(host='demo.appspot.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1061bb710>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:34:53,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,"HTTPSConnectionPool(host='api.sendgrid.com', port=443): Max retries exceeded with url: /v3/mail/send%20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061d8710>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:34:53,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,"HTTPSConnectionPool(host='api.sendgrid.com', port=443): Max retries exceeded with url: /v3/mail/send%20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061e3c10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:34:53,https://odata.intel.com/,Down,NA,NA,"HTTPSConnectionPool(host='odata.intel.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061e3490>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:34:53,https://odata.intel.com/,Down,NA,NA,"HTTPSConnectionPool(host='odata.intel.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061e3150>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:34:53,https://api.workspan.com/v1/person/me,Down,NA,NA,"HTTPSConnectionPool(host='api.workspan.com', port=443): Max retries exceeded with url: /v1/person/me (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061e94d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:34:53,https://api.workspan.com/v1/person/me,Down,NA,NA,"HTTPSConnectionPool(host='api.workspan.com', port=443): Max retries exceeded with url: /v1/person/me (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061e9690>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:34:53,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,"HTTPSConnectionPool(host='api.sendgrid.com', port=443): Max retries exceeded with url: /v3/mail/send%20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106150e10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:34:53,https://odata.intel.com/,Down,NA,NA,"HTTPSConnectionPool(host='odata.intel.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061bb850>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:34:53,https://api.workspan.com/v1/person/me,Down,NA,NA,"HTTPSConnectionPool(host='api.workspan.com', port=443): Max retries exceeded with url: /v1/person/me (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061bb150>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:34:53,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,"HTTPSConnectionPool(host='api.sendgrid.com', port=443): Max retries exceeded with url: /v3/mail/send%20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106102610>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:34:53,https://odata.intel.com/,Down,NA,NA,"HTTPSConnectionPool(host='odata.intel.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107224110>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:34:53,https://api.workspan.com/v1/person/me,Down,NA,NA,"HTTPSConnectionPool(host='api.workspan.com', port=443): Max retries exceeded with url: /v1/person/me (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107224ed0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:34:53,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,"HTTPSConnectionPool(host='api.sendgrid.com', port=443): Max retries exceeded with url: /v3/mail/send%20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1072056d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:35:28,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106170390>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:35:28,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,"HTTPSConnectionPool(host='demo.appspot.com', port=443): Max retries exceeded with url: /_ah/api/v1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061c7950>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:35:28,http://demo.appspot.com/,Down,NA,NA,"HTTPConnectionPool(host='demo.appspot.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1061bb210>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:35:28,https://developers.google.com/,Down,NA,NA,"HTTPSConnectionPool(host='developers.google.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061c7f10>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:35:28,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106145ed0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:35:28,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,"HTTPSConnectionPool(host='demo.appspot.com', port=443): Max retries exceeded with url: /_ah/api/v1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107224c90>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:35:28,http://demo.appspot.com/,Down,NA,NA,"HTTPConnectionPool(host='demo.appspot.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1072057d0>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:35:28,https://developers.google.com/,Down,NA,NA,"HTTPSConnectionPool(host='developers.google.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107224410>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:35:28,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,"HTTPSConnectionPool(host='demo.appspot.com', port=443): Max retries exceeded with url: /_ah/api/v1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107224b90>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:35:28,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106106fd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:35:28,https://developers.google.com/,Down,NA,NA,"HTTPSConnectionPool(host='developers.google.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106150990>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:35:28,http://demo.appspot.com/,Down,NA,NA,"HTTPConnectionPool(host='demo.appspot.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1061505d0>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:35:28,https://developers.google.com/,Down,NA,NA,"HTTPSConnectionPool(host='developers.google.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106167950>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:35:28,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,"HTTPSConnectionPool(host='demo.appspot.com', port=443): Max retries exceeded with url: /_ah/api/v1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106134d90>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:35:28,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061bbf10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:35:28,http://demo.appspot.com/,Down,NA,NA,"HTTPConnectionPool(host='demo.appspot.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10721d790>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:35:28,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,"HTTPSConnectionPool(host='demo.appspot.com', port=443): Max retries exceeded with url: /_ah/api/v1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061bbf10>: Failed to establish a new connection: [Errno 65] No route to host'))"
+27-04-2020_19:35:28,https://odata.intel.com/,Down,NA,NA,"HTTPSConnectionPool(host='odata.intel.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061c7c90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:35:28,https://api.workspan.com/v1/person/me,Down,NA,NA,"HTTPSConnectionPool(host='api.workspan.com', port=443): Max retries exceeded with url: /v1/person/me (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061bbe10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:35:28,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,"HTTPSConnectionPool(host='api.sendgrid.com', port=443): Max retries exceeded with url: /v3/mail/send%20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061d8610>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:35:28,https://odata.intel.com/,Down,NA,NA,"HTTPSConnectionPool(host='odata.intel.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061ce610>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:35:28,https://api.workspan.com/v1/person/me,Down,NA,NA,"HTTPSConnectionPool(host='api.workspan.com', port=443): Max retries exceeded with url: /v1/person/me (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107205050>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:35:28,https://api.workspan.com/v1/person/me,Down,NA,NA,"HTTPSConnectionPool(host='api.workspan.com', port=443): Max retries exceeded with url: /v1/person/me (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061e3550>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:35:28,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,"HTTPSConnectionPool(host='api.sendgrid.com', port=443): Max retries exceeded with url: /v3/mail/send%20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107224fd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:35:28,https://odata.intel.com/,Down,NA,NA,"HTTPSConnectionPool(host='odata.intel.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061d8550>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:35:28,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,"HTTPSConnectionPool(host='api.sendgrid.com', port=443): Max retries exceeded with url: /v3/mail/send%20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061e3bd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:35:28,https://odata.intel.com/,Down,NA,NA,"HTTPSConnectionPool(host='odata.intel.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061ceed0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:35:28,https://api.workspan.com/v1/person/me,Down,NA,NA,"HTTPSConnectionPool(host='api.workspan.com', port=443): Max retries exceeded with url: /v1/person/me (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10721d310>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:35:28,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,"HTTPSConnectionPool(host='api.sendgrid.com', port=443): Max retries exceeded with url: /v3/mail/send%20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061e3e50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:35:28,https://odata.intel.com/,Down,NA,NA,"HTTPSConnectionPool(host='odata.intel.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061e3510>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107205590>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107224510>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106136b90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1072450d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://developers.google.com/,Down,NA,NA,"HTTPSConnectionPool(host='developers.google.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10613e9d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,"HTTPSConnectionPool(host='api.sendgrid.com', port=443): Max retries exceeded with url: /v3/mail/send%20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061e9fd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,http://demo.appspot.com/,Down,NA,NA,"HTTPConnectionPool(host='demo.appspot.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x107205d50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://odata.intel.com/,Down,NA,NA,"HTTPSConnectionPool(host='odata.intel.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106145cd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://api.workspan.com/v1/person/me,Down,NA,NA,"HTTPSConnectionPool(host='api.workspan.com', port=443): Max retries exceeded with url: /v1/person/me (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1060f6b90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,"HTTPSConnectionPool(host='demo.appspot.com', port=443): Max retries exceeded with url: /_ah/api/v1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106167450>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://api.workspan.com/v1/person/me,Down,NA,NA,"HTTPSConnectionPool(host='api.workspan.com', port=443): Max retries exceeded with url: /v1/person/me (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061d8950>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,http://demo.appspot.com/,Down,NA,NA,"HTTPConnectionPool(host='demo.appspot.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1061bbcd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://developers.google.com/,Down,NA,NA,"HTTPSConnectionPool(host='developers.google.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107224d90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,"HTTPSConnectionPool(host='api.sendgrid.com', port=443): Max retries exceeded with url: /v3/mail/send%20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106170690>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://api.workspan.com/v1/person/me,Down,NA,NA,"HTTPSConnectionPool(host='api.workspan.com', port=443): Max retries exceeded with url: /v1/person/me (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106134150>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://odata.intel.com/,Down,NA,NA,"HTTPSConnectionPool(host='odata.intel.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106170ad0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,"HTTPSConnectionPool(host='demo.appspot.com', port=443): Max retries exceeded with url: /_ah/api/v1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107215bd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,http://demo.appspot.com/,Down,NA,NA,"HTTPConnectionPool(host='demo.appspot.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106136110>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://developers.google.com/,Down,NA,NA,"HTTPSConnectionPool(host='developers.google.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106136c90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,"HTTPSConnectionPool(host='api.sendgrid.com', port=443): Max retries exceeded with url: /v3/mail/send%20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106102890>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://odata.intel.com/,Down,NA,NA,"HTTPSConnectionPool(host='odata.intel.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10720e9d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,"HTTPSConnectionPool(host='demo.appspot.com', port=443): Max retries exceeded with url: /_ah/api/v1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10723d290>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://developers.google.com/,Down,NA,NA,"HTTPSConnectionPool(host='developers.google.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107236a10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://api.workspan.com/v1/person/me,Down,NA,NA,"HTTPSConnectionPool(host='api.workspan.com', port=443): Max retries exceeded with url: /v1/person/me (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10723d410>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,http://demo.appspot.com/,Down,NA,NA,"HTTPConnectionPool(host='demo.appspot.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x107245f50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://odata.intel.com/,Down,NA,NA,"HTTPSConnectionPool(host='odata.intel.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107253ad0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://api.workspan.com/v1/person/me,Down,NA,NA,"HTTPSConnectionPool(host='api.workspan.com', port=443): Max retries exceeded with url: /v1/person/me (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10725d090>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,"HTTPSConnectionPool(host='demo.appspot.com', port=443): Max retries exceeded with url: /_ah/api/v1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10725d5d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,"HTTPSConnectionPool(host='api.sendgrid.com', port=443): Max retries exceeded with url: /v3/mail/send%20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10725d190>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:03,https://developers.google.com/,Down,NA,NA,"HTTPSConnectionPool(host='developers.google.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10725d710>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107236050>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106134550>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061d8310>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106106bd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10725d950>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,http://demo.appspot.com/,Down,NA,NA,"HTTPConnectionPool(host='demo.appspot.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1072455d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,"HTTPSConnectionPool(host='api.sendgrid.com', port=443): Max retries exceeded with url: /v3/mail/send%20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107253650>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://api.workspan.com/v1/person/me,Down,NA,NA,"HTTPSConnectionPool(host='api.workspan.com', port=443): Max retries exceeded with url: /v1/person/me (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10720e2d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://odata.intel.com/,Down,NA,NA,"HTTPSConnectionPool(host='odata.intel.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10721ce90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,http://demo.appspot.com/,Down,NA,NA,"HTTPConnectionPool(host='demo.appspot.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106136a50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,"HTTPSConnectionPool(host='demo.appspot.com', port=443): Max retries exceeded with url: /_ah/api/v1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10721ccd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://developers.google.com/,Down,NA,NA,"HTTPSConnectionPool(host='developers.google.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1072154d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,"HTTPSConnectionPool(host='api.sendgrid.com', port=443): Max retries exceeded with url: /v3/mail/send%20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10723d110>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://odata.intel.com/,Down,NA,NA,"HTTPSConnectionPool(host='odata.intel.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10720ee50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://api.workspan.com/v1/person/me,Down,NA,NA,"HTTPSConnectionPool(host='api.workspan.com', port=443): Max retries exceeded with url: /v1/person/me (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10721c750>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,"HTTPSConnectionPool(host='demo.appspot.com', port=443): Max retries exceeded with url: /_ah/api/v1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106134690>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,http://demo.appspot.com/,Down,NA,NA,"HTTPConnectionPool(host='demo.appspot.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1061c7f90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://developers.google.com/,Down,NA,NA,"HTTPSConnectionPool(host='developers.google.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061bb2d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,"HTTPSConnectionPool(host='api.sendgrid.com', port=443): Max retries exceeded with url: /v3/mail/send%20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061708d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://odata.intel.com/,Down,NA,NA,"HTTPSConnectionPool(host='odata.intel.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061bb3d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,"HTTPSConnectionPool(host='demo.appspot.com', port=443): Max retries exceeded with url: /_ah/api/v1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106167990>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://api.workspan.com/v1/person/me,Down,NA,NA,"HTTPSConnectionPool(host='api.workspan.com', port=443): Max retries exceeded with url: /v1/person/me (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061679d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://developers.google.com/,Down,NA,NA,"HTTPSConnectionPool(host='developers.google.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107205a50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,http://demo.appspot.com/,Down,NA,NA,"HTTPConnectionPool(host='demo.appspot.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1061e35d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,"HTTPSConnectionPool(host='api.sendgrid.com', port=443): Max retries exceeded with url: /v3/mail/send%20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061d85d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://odata.intel.com/,Down,NA,NA,"HTTPSConnectionPool(host='odata.intel.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10613e190>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,"HTTPSConnectionPool(host='demo.appspot.com', port=443): Max retries exceeded with url: /_ah/api/v1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061ce410>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://api.workspan.com/v1/person/me,Down,NA,NA,"HTTPSConnectionPool(host='api.workspan.com', port=443): Max retries exceeded with url: /v1/person/me (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10613e890>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,http://demo.appspot.com/,Down,NA,NA,"HTTPConnectionPool(host='demo.appspot.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10725d0d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:36:38,https://developers.google.com/,Down,NA,NA,"HTTPSConnectionPool(host='developers.google.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061ceed0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061028d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107215310>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10720e810>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10725d050>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://odata.intel.com/,Down,NA,NA,"HTTPSConnectionPool(host='odata.intel.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10725d0d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,http://demo.appspot.com/,Down,NA,NA,"HTTPConnectionPool(host='demo.appspot.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1061ce5d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://api.workspan.com/v1/person/me,Down,NA,NA,"HTTPSConnectionPool(host='api.workspan.com', port=443): Max retries exceeded with url: /v1/person/me (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10613e210>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,"HTTPSConnectionPool(host='demo.appspot.com', port=443): Max retries exceeded with url: /_ah/api/v1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10724df50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://developers.google.com/,Down,NA,NA,"HTTPSConnectionPool(host='developers.google.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107236c50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://api.workspan.com/v1/person/me,Down,NA,NA,"HTTPSConnectionPool(host='api.workspan.com', port=443): Max retries exceeded with url: /v1/person/me (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10721c4d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://odata.intel.com/,Down,NA,NA,"HTTPSConnectionPool(host='odata.intel.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106136190>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,"HTTPSConnectionPool(host='demo.appspot.com', port=443): Max retries exceeded with url: /_ah/api/v1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106136e50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://api.workspan.com/v1/person/me,Down,NA,NA,"HTTPSConnectionPool(host='api.workspan.com', port=443): Max retries exceeded with url: /v1/person/me (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106167590>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,"HTTPSConnectionPool(host='api.sendgrid.com', port=443): Max retries exceeded with url: /v3/mail/send%20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106170910>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,http://demo.appspot.com/,Down,NA,NA,"HTTPConnectionPool(host='demo.appspot.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10721c8d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://odata.intel.com/,Down,NA,NA,"HTTPSConnectionPool(host='odata.intel.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1072454d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,"HTTPSConnectionPool(host='api.sendgrid.com', port=443): Max retries exceeded with url: /v3/mail/send%20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106150a90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,http://demo.appspot.com/,Down,NA,NA,"HTTPConnectionPool(host='demo.appspot.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106102a10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,"HTTPSConnectionPool(host='api.sendgrid.com', port=443): Max retries exceeded with url: /v3/mail/send%20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061bb5d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,"HTTPSConnectionPool(host='demo.appspot.com', port=443): Max retries exceeded with url: /_ah/api/v1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106170c50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://developers.google.com/,Down,NA,NA,"HTTPSConnectionPool(host='developers.google.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061d8d50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://developers.google.com/,Down,NA,NA,"HTTPSConnectionPool(host='developers.google.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107215650>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,"HTTPSConnectionPool(host='demo.appspot.com', port=443): Max retries exceeded with url: /_ah/api/v1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061672d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,"HTTPSConnectionPool(host='api.sendgrid.com', port=443): Max retries exceeded with url: /v3/mail/send%20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1060f6a90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://odata.intel.com/,Down,NA,NA,"HTTPSConnectionPool(host='odata.intel.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106150bd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,http://demo.appspot.com/,Down,NA,NA,"HTTPConnectionPool(host='demo.appspot.com', port=80): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106134710>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://developers.google.com/,Down,NA,NA,"HTTPSConnectionPool(host='developers.google.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061ce450>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,"HTTPSConnectionPool(host='api.sendgrid.com', port=443): Max retries exceeded with url: /v3/mail/send%20 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107253290>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://odata.intel.com/,Down,NA,NA,"HTTPSConnectionPool(host='odata.intel.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106170490>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:13,https://api.workspan.com/v1/person/me,Down,NA,NA,"HTTPSConnectionPool(host='api.workspan.com', port=443): Max retries exceeded with url: /v1/person/me (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061e9e90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:22,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10613e610>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:22,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061e3e90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:22,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106170050>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:22,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106136b10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:22,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:22,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:22,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:22,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:22,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:22,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:22,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:22,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:22,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:22,https://odata.intel.com/,Up,0.57501,200,NA
+27-04-2020_19:37:22,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:22,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:22,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:22,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:22,https://odata.intel.com/,Up,1.607251,200,NA
+27-04-2020_19:37:22,https://odata.intel.com/,Up,1.599049,200,NA
+27-04-2020_19:37:22,https://odata.intel.com/,Up,1.593858,200,NA
+27-04-2020_19:37:22,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:22,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:22,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:22,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:22,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:22,https://developers.google.com/,Up,3.039878,200,NA
+27-04-2020_19:37:22,https://developers.google.com/,Up,3.015375,200,NA
+27-04-2020_19:37:22,https://developers.google.com/,Up,3.150715,200,NA
+27-04-2020_19:37:22,https://developers.google.com/,Up,3.249891,200,NA
+27-04-2020_19:37:31,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061454d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:31,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107253590>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:31,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061702d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:31,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107236490>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:31,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10613e050>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:31,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:31,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:31,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:31,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:31,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:31,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:31,https://odata.intel.com/,Up,0.368465,200,NA
+27-04-2020_19:37:31,https://odata.intel.com/,Up,0.35508,200,NA
+27-04-2020_19:37:31,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:31,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:31,https://odata.intel.com/,Up,0.356413,200,NA
+27-04-2020_19:37:31,https://odata.intel.com/,Up,0.37699,200,NA
+27-04-2020_19:37:31,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:31,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:31,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:31,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:31,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:31,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:31,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:31,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:31,https://developers.google.com/,Up,0.894542,200,NA
+27-04-2020_19:37:31,https://developers.google.com/,Up,0.827674,200,NA
+27-04-2020_19:37:31,https://developers.google.com/,Up,1.196454,200,NA
+27-04-2020_19:37:31,https://developers.google.com/,Up,1.056569,200,NA
+27-04-2020_19:37:31,https://developers.google.com/,Up,1.29884,200,NA
+27-04-2020_19:37:38,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107267750>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:38,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107236ed0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:38,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10721cc50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:38,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106106f90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:38,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:38,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:38,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:38,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:38,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:38,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:38,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:38,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:38,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:38,https://odata.intel.com/,Up,0.983069,200,NA
+27-04-2020_19:37:38,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:38,https://odata.intel.com/,Up,0.994356,200,NA
+27-04-2020_19:37:38,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:38,https://odata.intel.com/,Up,1.008038,200,NA
+27-04-2020_19:37:38,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:38,https://odata.intel.com/,Up,0.97511,200,NA
+27-04-2020_19:37:38,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:38,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:38,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:38,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:38,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:38,https://developers.google.com/,Up,1.223933,200,NA
+27-04-2020_19:37:38,https://developers.google.com/,Up,1.172485,200,NA
+27-04-2020_19:37:38,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:38,https://developers.google.com/,Up,1.242823,200,NA
+27-04-2020_19:37:38,https://developers.google.com/,Up,1.624315,200,NA
+27-04-2020_19:37:45,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061360d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:45,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106170650>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:45,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061c7d10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:45,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061ce8d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:45,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:45,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:45,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:45,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:45,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:45,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:45,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:45,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:45,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:45,https://odata.intel.com/,Up,0.485752,200,NA
+27-04-2020_19:37:45,https://odata.intel.com/,Up,0.430853,200,NA
+27-04-2020_19:37:45,https://odata.intel.com/,Up,0.44959,200,NA
+27-04-2020_19:37:45,https://odata.intel.com/,Up,0.464096,200,NA
+27-04-2020_19:37:45,https://odata.intel.com/,Up,0.487158,200,NA
+27-04-2020_19:37:45,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:45,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:45,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:45,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:45,https://developers.google.com/,Up,0.836786,200,NA
+27-04-2020_19:37:45,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:45,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:45,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:45,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:45,https://developers.google.com/,Up,1.115628,200,NA
+27-04-2020_19:37:45,https://developers.google.com/,Up,1.111009,200,NA
+27-04-2020_19:37:45,https://developers.google.com/,Up,1.318823,200,NA
+27-04-2020_19:37:52,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061bb410>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:52,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107253a50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:52,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1072367d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:52,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10721c3d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:52,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:52,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:52,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:52,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:52,https://odata.intel.com/,Up,0.330065,200,NA
+27-04-2020_19:37:52,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:52,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:52,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:52,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:52,https://odata.intel.com/,Up,0.323052,200,NA
+27-04-2020_19:37:52,https://odata.intel.com/,Up,0.348919,200,NA
+27-04-2020_19:37:52,https://odata.intel.com/,Up,0.364574,200,NA
+27-04-2020_19:37:52,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:52,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:52,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:52,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:52,https://developers.google.com/,Up,0.807281,200,NA
+27-04-2020_19:37:52,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:52,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:52,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:52,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:52,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:52,https://developers.google.com/,Up,0.885324,200,NA
+27-04-2020_19:37:52,https://developers.google.com/,Up,0.90193,200,NA
+27-04-2020_19:37:52,https://developers.google.com/,Up,1.102581,200,NA
+27-04-2020_19:37:52,https://developers.google.com/,Up,1.287839,200,NA
+27-04-2020_19:37:59,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10721c810>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:59,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1072675d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:59,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061e3510>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:59,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107253f50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:59,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10725da90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:37:59,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:59,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:59,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:59,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:59,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:37:59,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:59,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:59,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:59,https://odata.intel.com/,Up,0.369165,200,NA
+27-04-2020_19:37:59,https://odata.intel.com/,Up,0.359972,200,NA
+27-04-2020_19:37:59,https://odata.intel.com/,Up,0.351234,200,NA
+27-04-2020_19:37:59,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:37:59,https://odata.intel.com/,Up,0.38742,200,NA
+27-04-2020_19:37:59,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:59,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:59,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:59,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:37:59,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:59,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:59,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:59,https://developers.google.com/,Up,0.926392,200,NA
+27-04-2020_19:37:59,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:37:59,https://developers.google.com/,Up,0.943142,200,NA
+27-04-2020_19:37:59,https://developers.google.com/,Up,1.014451,200,NA
+27-04-2020_19:37:59,https://developers.google.com/,Up,1.356587,200,NA
+27-04-2020_19:38:06,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106167950>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:06,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107205a90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:06,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107224110>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:06,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10725d990>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:06,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:06,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:06,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:06,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:06,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:06,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:06,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:06,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:06,https://odata.intel.com/,Up,0.461747,200,NA
+27-04-2020_19:38:06,https://odata.intel.com/,Up,0.451311,200,NA
+27-04-2020_19:38:06,https://odata.intel.com/,Up,0.477515,200,NA
+27-04-2020_19:38:06,https://odata.intel.com/,Up,0.450914,200,NA
+27-04-2020_19:38:06,https://odata.intel.com/,Up,0.464115,200,NA
+27-04-2020_19:38:06,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:06,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:06,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:06,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:06,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:06,https://developers.google.com/,Up,0.756543,200,NA
+27-04-2020_19:38:06,https://developers.google.com/,Up,0.875512,200,NA
+27-04-2020_19:38:06,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:06,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:06,https://developers.google.com/,Up,0.806435,200,NA
+27-04-2020_19:38:06,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:06,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:06,https://developers.google.com/,Up,0.898083,200,NA
+27-04-2020_19:38:12,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061bb510>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:12,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106145bd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:12,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107253050>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:12,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107245e50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:12,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:12,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:12,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:12,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:12,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:12,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:12,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:12,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:12,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:12,https://odata.intel.com/,Up,0.461367,200,NA
+27-04-2020_19:38:12,https://odata.intel.com/,Up,0.434638,200,NA
+27-04-2020_19:38:12,https://odata.intel.com/,Up,0.454016,200,NA
+27-04-2020_19:38:12,https://odata.intel.com/,Up,0.4593,200,NA
+27-04-2020_19:38:12,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:12,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:12,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:12,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:12,https://developers.google.com/,Up,0.815321,200,NA
+27-04-2020_19:38:12,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:12,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:12,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:12,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:12,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:12,https://developers.google.com/,Up,0.88615,200,NA
+27-04-2020_19:38:12,https://developers.google.com/,Up,1.106283,200,NA
+27-04-2020_19:38:12,https://developers.google.com/,Up,1.960589,200,NA
+27-04-2020_19:38:20,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107215d10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:20,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061707d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:20,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107224fd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:20,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061c7890>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:20,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10613e8d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:20,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:20,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:20,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:20,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:20,https://odata.intel.com/,Up,0.384075,200,NA
+27-04-2020_19:38:20,https://odata.intel.com/,Up,0.373514,200,NA
+27-04-2020_19:38:20,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:20,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:20,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:20,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:20,https://odata.intel.com/,Up,0.425583,200,NA
+27-04-2020_19:38:20,https://odata.intel.com/,Up,0.443776,200,NA
+27-04-2020_19:38:20,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:20,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:20,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:20,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:20,https://developers.google.com/,Up,0.804638,200,NA
+27-04-2020_19:38:20,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:20,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:20,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:20,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:20,https://developers.google.com/,Up,0.891764,200,NA
+27-04-2020_19:38:20,https://developers.google.com/,Up,0.837164,200,NA
+27-04-2020_19:38:20,https://developers.google.com/,Up,0.795954,200,NA
+27-04-2020_19:38:20,https://developers.google.com/,Up,0.813747,200,NA
+27-04-2020_19:38:26,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107267ad0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:26,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061c7690>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:26,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106170f90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:26,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10613e6d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:26,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:26,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:26,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:26,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:26,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:26,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:26,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:26,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:26,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:26,https://odata.intel.com/,Up,0.458589,200,NA
+27-04-2020_19:38:26,https://odata.intel.com/,Up,0.472822,200,NA
+27-04-2020_19:38:26,https://odata.intel.com/,Up,0.457718,200,NA
+27-04-2020_19:38:26,https://odata.intel.com/,Up,0.448685,200,NA
+27-04-2020_19:38:26,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:26,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:26,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:26,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:26,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:26,https://developers.google.com/,Up,0.770521,200,NA
+27-04-2020_19:38:26,https://developers.google.com/,Up,0.822135,200,NA
+27-04-2020_19:38:26,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:26,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:26,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:26,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:26,https://developers.google.com/,Up,1.09807,200,NA
+27-04-2020_19:38:26,https://developers.google.com/,Up,1.260735,200,NA
+27-04-2020_19:38:33,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107267510>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:33,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106145ad0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:33,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106102cd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:33,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10723d890>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:33,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:33,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:33,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:33,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:33,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:33,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:33,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:33,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:33,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:33,https://odata.intel.com/,Up,0.393353,200,NA
+27-04-2020_19:38:33,https://odata.intel.com/,Up,0.422715,200,NA
+27-04-2020_19:38:33,https://odata.intel.com/,Up,0.44319,200,NA
+27-04-2020_19:38:33,https://odata.intel.com/,Up,0.407341,200,NA
+27-04-2020_19:38:33,https://odata.intel.com/,Up,0.441904,200,NA
+27-04-2020_19:38:33,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:33,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:33,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:33,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:33,https://developers.google.com/,Up,0.819275,200,NA
+27-04-2020_19:38:33,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:33,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:33,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:33,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:33,https://developers.google.com/,Up,0.857633,200,NA
+27-04-2020_19:38:33,https://developers.google.com/,Up,0.963453,200,NA
+27-04-2020_19:38:33,https://developers.google.com/,Up,1.040336,200,NA
+27-04-2020_19:38:40,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1072055d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:40,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106167950>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:40,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061c7ad0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:40,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106145dd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:40,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:40,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:40,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:40,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:40,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:40,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:40,https://odata.intel.com/,Up,0.335962,200,NA
+27-04-2020_19:38:40,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:40,https://odata.intel.com/,Up,0.326663,200,NA
+27-04-2020_19:38:40,https://odata.intel.com/,Up,0.335222,200,NA
+27-04-2020_19:38:40,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:40,https://odata.intel.com/,Up,0.353829,200,NA
+27-04-2020_19:38:40,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:40,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:40,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:40,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:40,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:40,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:40,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:40,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:40,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:40,https://developers.google.com/,Up,0.944258,200,NA
+27-04-2020_19:38:40,https://developers.google.com/,Up,0.887854,200,NA
+27-04-2020_19:38:40,https://developers.google.com/,Up,0.900675,200,NA
+27-04-2020_19:38:40,https://developers.google.com/,Up,1.244982,200,NA
+27-04-2020_19:38:40,https://developers.google.com/,Up,1.608993,200,NA
+27-04-2020_19:38:47,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10725d690>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:47,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10721ce10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:47,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061cef90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:47,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106136650>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:47,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1072454d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:47,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:47,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:47,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:47,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:47,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:47,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:47,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:47,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:47,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:47,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:47,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:47,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:47,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:47,https://developers.google.com/,Up,0.766049,200,NA
+27-04-2020_19:38:47,https://developers.google.com/,Up,0.864758,200,NA
+27-04-2020_19:38:47,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:47,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:47,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:47,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:47,https://developers.google.com/,Up,0.810982,200,NA
+27-04-2020_19:38:47,https://developers.google.com/,Up,1.027855,200,NA
+27-04-2020_19:38:47,https://odata.intel.com/,Up,2.410101,200,NA
+27-04-2020_19:38:47,https://odata.intel.com/,Up,2.40444,200,NA
+27-04-2020_19:38:47,https://odata.intel.com/,Up,2.591095,200,NA
+27-04-2020_19:38:47,https://odata.intel.com/,Up,2.637686,200,NA
+27-04-2020_19:38:55,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10725da90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:55,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061502d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:55,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061340d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:55,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107215c10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:38:55,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:55,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:55,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:55,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:38:55,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:55,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:55,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:55,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:38:55,https://odata.intel.com/,Up,0.366874,200,NA
+27-04-2020_19:38:55,https://odata.intel.com/,Up,0.383161,200,NA
+27-04-2020_19:38:55,https://odata.intel.com/,Up,0.402903,200,NA
+27-04-2020_19:38:55,https://odata.intel.com/,Up,0.373661,200,NA
+27-04-2020_19:38:55,https://odata.intel.com/,Up,0.420449,200,NA
+27-04-2020_19:38:55,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:55,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:55,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:55,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:55,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:38:55,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:55,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:55,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:55,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:38:55,https://developers.google.com/,Up,0.897195,200,NA
+27-04-2020_19:38:55,https://developers.google.com/,Up,0.773451,200,NA
+27-04-2020_19:38:55,https://developers.google.com/,Up,0.817118,200,NA
+27-04-2020_19:38:55,https://developers.google.com/,Up,0.971032,200,NA
+27-04-2020_19:39:01,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107224c10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:01,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061e97d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:01,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10723d9d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:01,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1072151d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:01,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:01,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:01,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:01,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:01,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:01,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:01,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:01,https://odata.intel.com/,Up,0.350671,200,NA
+27-04-2020_19:39:01,https://odata.intel.com/,Up,0.344261,200,NA
+27-04-2020_19:39:01,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:01,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:01,https://odata.intel.com/,Up,0.347913,200,NA
+27-04-2020_19:39:01,https://odata.intel.com/,Up,0.361276,200,NA
+27-04-2020_19:39:01,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:01,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:01,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:01,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:01,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:01,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:01,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:01,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:01,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:01,https://developers.google.com/,Up,0.991613,200,NA
+27-04-2020_19:39:01,https://developers.google.com/,Up,1.178773,200,NA
+27-04-2020_19:39:01,https://developers.google.com/,Up,0.938084,200,NA
+27-04-2020_19:39:01,https://developers.google.com/,Up,1.388893,200,NA
+27-04-2020_19:39:08,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061d8910>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:08,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10721cb10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:08,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061c71d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:08,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1072241d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:08,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107245b50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:08,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:08,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:08,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:08,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:08,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:08,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:08,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:08,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:08,https://odata.intel.com/,Up,0.399219,200,NA
+27-04-2020_19:39:08,https://odata.intel.com/,Up,0.388961,200,NA
+27-04-2020_19:39:08,https://odata.intel.com/,Up,0.374613,200,NA
+27-04-2020_19:39:08,https://odata.intel.com/,Up,0.386931,200,NA
+27-04-2020_19:39:08,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:08,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:08,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:08,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:08,https://developers.google.com/,Up,0.871558,200,NA
+27-04-2020_19:39:08,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:08,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:08,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:08,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:08,https://developers.google.com/,Up,0.885132,200,NA
+27-04-2020_19:39:08,https://developers.google.com/,Up,1.081029,200,NA
+27-04-2020_19:39:08,https://developers.google.com/,Up,1.317533,200,NA
+27-04-2020_19:39:08,https://developers.google.com/,Up,1.673023,200,NA
+27-04-2020_19:39:15,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061bb710>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:15,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061cee90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:15,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061e3ed0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:15,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107245c50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:15,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:15,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:15,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:15,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:15,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:15,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:15,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:15,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:15,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:15,https://odata.intel.com/,Up,0.417133,200,NA
+27-04-2020_19:39:15,https://odata.intel.com/,Up,0.397828,200,NA
+27-04-2020_19:39:15,https://odata.intel.com/,Up,0.409415,200,NA
+27-04-2020_19:39:15,https://odata.intel.com/,Up,0.396521,200,NA
+27-04-2020_19:39:15,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:15,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:15,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:15,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:15,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:15,https://developers.google.com/,Up,0.788006,200,NA
+27-04-2020_19:39:15,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:15,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:15,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:15,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:15,https://developers.google.com/,Up,0.911858,200,NA
+27-04-2020_19:39:15,https://developers.google.com/,Up,0.987726,200,NA
+27-04-2020_19:39:15,https://developers.google.com/,Up,1.192493,200,NA
+27-04-2020_19:39:22,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10613e290>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:22,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061ce390>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:22,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061e9a10>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:22,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107245ed0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:22,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:22,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:22,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:22,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:22,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:22,https://odata.intel.com/,Up,0.324429,200,NA
+27-04-2020_19:39:22,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:22,https://odata.intel.com/,Up,0.349163,200,NA
+27-04-2020_19:39:22,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:22,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:22,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:22,https://odata.intel.com/,Up,0.348395,200,NA
+27-04-2020_19:39:22,https://odata.intel.com/,Up,0.348287,200,NA
+27-04-2020_19:39:22,https://odata.intel.com/,Up,0.369529,200,NA
+27-04-2020_19:39:22,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:22,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:22,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:22,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:22,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:22,https://developers.google.com/,Up,0.821132,200,NA
+27-04-2020_19:39:22,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:22,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:22,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:22,https://developers.google.com/,Up,0.957602,200,NA
+27-04-2020_19:39:22,https://developers.google.com/,Up,1.342876,200,NA
+27-04-2020_19:39:22,https://developers.google.com/,Up,1.504226,200,NA
+27-04-2020_19:39:29,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061c7550>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:29,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106167590>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:29,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107224850>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:29,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106102c50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:29,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:29,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:29,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:29,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:29,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:29,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:29,https://odata.intel.com/,Up,0.331681,200,NA
+27-04-2020_19:39:29,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:29,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:29,https://odata.intel.com/,Up,0.345475,200,NA
+27-04-2020_19:39:29,https://odata.intel.com/,Up,0.340032,200,NA
+27-04-2020_19:39:29,https://odata.intel.com/,Up,0.351925,200,NA
+27-04-2020_19:39:29,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:29,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:29,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:29,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:29,https://developers.google.com/,Up,0.721592,200,NA
+27-04-2020_19:39:29,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:29,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:29,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:29,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:29,https://developers.google.com/,Up,0.843164,200,NA
+27-04-2020_19:39:29,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:29,https://developers.google.com/,Up,1.108565,200,NA
+27-04-2020_19:39:29,https://developers.google.com/,Up,1.396624,200,NA
+27-04-2020_19:39:29,https://developers.google.com/,Up,1.300277,200,NA
+27-04-2020_19:39:36,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107236e90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:36,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1072533d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:36,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1060f6bd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:36,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061d82d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:36,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107205190>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:36,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:36,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:36,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:36,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:36,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:36,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:36,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:36,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:36,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:36,https://odata.intel.com/,Up,0.446982,200,NA
+27-04-2020_19:39:36,https://odata.intel.com/,Up,0.436825,200,NA
+27-04-2020_19:39:36,https://odata.intel.com/,Up,0.462714,200,NA
+27-04-2020_19:39:36,https://odata.intel.com/,Up,0.437316,200,NA
+27-04-2020_19:39:36,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:36,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:36,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:36,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:36,https://developers.google.com/,Up,0.758731,200,NA
+27-04-2020_19:39:36,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:36,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:36,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:36,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:36,https://developers.google.com/,Up,0.918786,200,NA
+27-04-2020_19:39:36,https://developers.google.com/,Up,1.123253,200,NA
+27-04-2020_19:39:36,https://developers.google.com/,Up,1.744971,200,NA
+27-04-2020_19:39:43,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107224bd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:43,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10613e710>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:43,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061367d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:43,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107245350>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:43,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:43,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:43,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:43,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:43,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:43,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:43,https://odata.intel.com/,Up,0.308292,200,NA
+27-04-2020_19:39:43,https://odata.intel.com/,Up,0.340621,200,NA
+27-04-2020_19:39:43,https://odata.intel.com/,Up,0.331516,200,NA
+27-04-2020_19:39:43,https://odata.intel.com/,Up,0.320505,200,NA
+27-04-2020_19:39:43,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:43,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:43,https://odata.intel.com/,Up,0.340642,200,NA
+27-04-2020_19:39:43,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:43,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:43,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:43,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:43,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:43,https://developers.google.com/,Up,0.767623,200,NA
+27-04-2020_19:39:43,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:43,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:43,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:43,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:43,https://developers.google.com/,Up,0.985293,200,NA
+27-04-2020_19:39:43,https://developers.google.com/,Up,1.134842,200,NA
+27-04-2020_19:39:43,https://developers.google.com/,Up,1.82852,200,NA
+27-04-2020_19:39:51,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10721cfd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:51,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106150c90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:51,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106145f50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:51,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061e9a90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:51,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:51,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:51,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:51,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:51,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:51,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:51,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:51,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:51,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:51,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:51,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:51,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:51,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:51,https://odata.intel.com/,Up,0.397863,200,NA
+27-04-2020_19:39:51,https://odata.intel.com/,Up,0.432956,200,NA
+27-04-2020_19:39:51,https://odata.intel.com/,Up,0.432579,200,NA
+27-04-2020_19:39:51,https://odata.intel.com/,Up,0.445104,200,NA
+27-04-2020_19:39:51,https://developers.google.com/,Up,0.798346,200,NA
+27-04-2020_19:39:51,https://developers.google.com/,Up,0.826911,200,NA
+27-04-2020_19:39:51,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:51,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:51,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:51,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:51,https://developers.google.com/,Up,0.917871,200,NA
+27-04-2020_19:39:51,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:51,https://developers.google.com/,Up,1.125547,200,NA
+27-04-2020_19:39:57,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061458d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:57,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061e94d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:57,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10723d510>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:57,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10613e650>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:57,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1072450d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:39:57,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:57,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:57,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:57,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:39:57,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:57,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:57,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:57,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:57,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:39:57,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:57,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:57,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:39:57,https://odata.intel.com/,Up,0.392872,200,NA
+27-04-2020_19:39:57,https://odata.intel.com/,Up,0.424684,200,NA
+27-04-2020_19:39:57,https://odata.intel.com/,Up,0.416346,200,NA
+27-04-2020_19:39:57,https://odata.intel.com/,Up,0.399601,200,NA
+27-04-2020_19:39:57,https://developers.google.com/,Up,0.749425,200,NA
+27-04-2020_19:39:57,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:57,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:57,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:57,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:39:57,https://developers.google.com/,Up,0.773752,200,NA
+27-04-2020_19:39:57,https://developers.google.com/,Up,0.911293,200,NA
+27-04-2020_19:39:57,https://developers.google.com/,Up,0.968453,200,NA
+27-04-2020_19:39:57,https://developers.google.com/,Up,0.984844,200,NA
+27-04-2020_19:40:04,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106167ad0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:40:04,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061e3610>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:40:04,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10720efd0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:40:04,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107245d90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:40:04,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:40:04,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:40:04,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:40:04,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:40:04,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:40:04,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:40:04,https://odata.intel.com/,Up,0.345629,200,NA
+27-04-2020_19:40:04,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:40:04,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:40:04,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:40:04,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:40:04,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:40:04,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:40:04,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:40:04,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:40:04,https://odata.intel.com/,Up,0.367387,200,NA
+27-04-2020_19:40:04,https://odata.intel.com/,Up,0.379301,200,NA
+27-04-2020_19:40:04,https://odata.intel.com/,Up,0.390619,200,NA
+27-04-2020_19:40:04,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:40:04,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:40:04,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:40:04,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:40:04,https://developers.google.com/,Up,0.94761,200,NA
+27-04-2020_19:40:04,https://developers.google.com/,Up,0.964871,200,NA
+27-04-2020_19:40:04,https://developers.google.com/,Up,1.22879,200,NA
+27-04-2020_19:40:04,https://developers.google.com/,Up,1.352972,200,NA
+27-04-2020_19:40:11,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061d8710>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:40:11,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10613e390>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:40:11,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107224e50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:40:11,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106136290>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:40:11,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:40:11,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:40:11,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:40:11,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:40:11,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:40:11,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:40:11,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:40:11,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:40:11,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:40:11,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:40:11,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:40:11,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:40:11,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:40:11,https://odata.intel.com/,Up,0.404562,200,NA
+27-04-2020_19:40:11,https://odata.intel.com/,Up,0.476631,200,NA
+27-04-2020_19:40:11,https://odata.intel.com/,Up,0.50255,200,NA
+27-04-2020_19:40:11,https://odata.intel.com/,Up,0.506214,200,NA
+27-04-2020_19:40:11,https://odata.intel.com/,Up,0.532449,200,NA
+27-04-2020_19:40:11,https://developers.google.com/,Up,0.844978,200,NA
+27-04-2020_19:40:11,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:40:11,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:40:11,https://developers.google.com/,Up,0.867566,200,NA
+27-04-2020_19:40:11,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:40:11,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:40:11,https://developers.google.com/,Up,0.878065,200,NA
+27-04-2020_19:40:11,https://developers.google.com/,Up,0.720847,200,NA
+27-04-2020_19:40:18,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107267a50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:40:18,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107205a90>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:40:18,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107236510>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:40:18,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10725dd50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:40:18,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:40:18,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:40:18,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:40:18,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:40:18,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:40:18,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:40:18,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:40:18,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:40:18,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:40:18,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:40:18,https://odata.intel.com/,Up,0.374551,200,NA
+27-04-2020_19:40:18,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:40:18,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:40:18,https://odata.intel.com/,Up,0.38449,200,NA
+27-04-2020_19:40:18,https://odata.intel.com/,Up,0.38624,200,NA
+27-04-2020_19:40:18,https://odata.intel.com/,Up,0.462682,200,NA
+27-04-2020_19:40:18,https://developers.google.com/,Up,0.718852,200,NA
+27-04-2020_19:40:18,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:40:18,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:40:18,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:40:18,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:40:18,https://developers.google.com/,Up,0.953919,200,NA
+27-04-2020_19:40:18,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:40:18,https://developers.google.com/,Up,0.898429,200,NA
+27-04-2020_19:40:18,https://developers.google.com/,Up,0.926178,200,NA
+27-04-2020_19:40:18,https://developers.google.com/,Up,1.162759,200,NA
+27-04-2020_19:40:24,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061e3850>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:40:24,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061340d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:40:24,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061e9650>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:40:24,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107267390>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:40:24,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106136c50>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:40:24,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:40:24,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:40:24,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:40:24,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:40:24,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:40:24,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:40:24,https://odata.intel.com/,Up,0.347559,200,NA
+27-04-2020_19:40:24,https://odata.intel.com/,Up,0.336445,200,NA
+27-04-2020_19:40:24,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:40:24,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:40:24,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:40:24,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:40:24,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:40:24,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:40:24,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:40:24,https://odata.intel.com/,Up,0.347986,200,NA
+27-04-2020_19:40:24,https://odata.intel.com/,Up,0.3626,200,NA
+27-04-2020_19:40:24,https://developers.google.com/,Up,0.781653,200,NA
+27-04-2020_19:40:24,https://developers.google.com/,Up,0.820284,200,NA
+27-04-2020_19:40:24,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:40:24,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:40:24,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:40:24,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:40:24,https://developers.google.com/,Up,0.796117,200,NA
+27-04-2020_19:40:24,https://developers.google.com/,Up,1.650792,200,NA
+27-04-2020_19:40:31,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1072052d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:40:31,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x10720eed0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:40:31,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1072364d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:40:31,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x106136710>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:40:31,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:40:31,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:40:31,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:40:31,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:40:31,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:40:31,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:40:31,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:40:31,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:40:31,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:40:31,https://odata.intel.com/,Up,0.466885,200,NA
+27-04-2020_19:40:31,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:40:31,https://odata.intel.com/,Up,0.48442,200,NA
+27-04-2020_19:40:31,https://odata.intel.com/,Up,0.443009,200,NA
+27-04-2020_19:40:31,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:40:31,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:40:31,https://odata.intel.com/,Up,0.466937,200,NA
+27-04-2020_19:40:31,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:40:31,https://odata.intel.com/,Up,0.475617,200,NA
+27-04-2020_19:40:31,https://developers.google.com/,Up,0.872893,200,NA
+27-04-2020_19:40:31,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:40:31,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:40:31,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:40:31,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:40:31,https://developers.google.com/,Up,1.110013,200,NA
+27-04-2020_19:40:31,https://developers.google.com/,Up,1.196589,200,NA
+27-04-2020_19:40:31,https://developers.google.com/,Up,1.472975,200,NA
+27-04-2020_19:40:38,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1061bbed0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:40:38,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x107267610>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:40:38,,Down,NA,NA,Invalid URL '': No schema supplied. Perhaps you meant http://?
+27-04-2020_19:40:38,https://a1234.execute-api.us-west.amazonaws.com/start/,Down,NA,NA,"HTTPSConnectionPool(host='a1234.execute-api.us-west.amazonaws.com', port=443): Max retries exceeded with url: /start/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x1072454d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))"
+27-04-2020_19:40:38,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:40:38,http://demo.appspot.com/,Down,NA,NA,404 Client Error: Not Found for url: http://demo.appspot.com/
+27-04-2020_19:40:38,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:40:38,https://odata.intel.com/,Up,0.321648,200,NA
+27-04-2020_19:40:38,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:40:38,https://demo.appspot.com/_ah/api/v1,Down,NA,NA,404 Client Error: Not Found for url: https://demo.appspot.com/_ah/api/v1
+27-04-2020_19:40:38,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:40:38,https://api.sendgrid.com/v3/mail/send ,Down,NA,NA,404 Client Error: Not Found for url: https://api.sendgrid.com/v3/mail/send%20
+27-04-2020_19:40:38,https://odata.intel.com/,Up,0.368679,200,NA
+27-04-2020_19:40:38,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:40:38,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:40:38,https://api.workspan.com/v1/person/me,Down,NA,NA,404 Client Error: Resource Not Found for url: https://api.workspan.com/v1/person/me
+27-04-2020_19:40:38,https://developers.google.com/,Up,1.114937,200,NA
+27-04-2020_19:40:38,https://developers.google.com/,Up,2.046898,200,NA
+27-04-2020_19:40:38,https://developers.google.com/,Up,1.778092,200,NA
